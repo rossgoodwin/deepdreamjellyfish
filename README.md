@@ -1,4 +1,4 @@
-# DeepDreamDancer.gif
+# DeepDreamJellyfish.gif
 
 ![DeepDreamJellyfish.gif](./DeepDreamJellyfish.gif)
 
